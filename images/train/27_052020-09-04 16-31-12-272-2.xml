@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>27_052020-09-04 16-31-12-272-2.png</filename>
+	<path>C:\Users\vitek007718\Desktop\vid_test\images\27_052020-09-04 16-31-12-272-2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>519</xmin>
+			<ymin>172</ymin>
+			<xmax>1397</xmax>
+			<ymax>972</ymax>
+		</bndbox>
+	</object>
+</annotation>

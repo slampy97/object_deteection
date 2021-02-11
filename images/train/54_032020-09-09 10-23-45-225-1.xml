@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>54_032020-09-09 10-23-45-225-1.png</filename>
+	<path>C:\Users\vitek007718\Desktop\vid_test\images\54_032020-09-09 10-23-45-225-1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>29</ymin>
+			<xmax>856</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>923</xmin>
+			<ymin>38</ymin>
+			<xmax>1556</xmax>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1296</xmin>
+			<ymin>524</ymin>
+			<xmax>1902</xmax>
+			<ymax>1037</ymax>
+		</bndbox>
+	</object>
+</annotation>
